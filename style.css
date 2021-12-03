@@ -1,0 +1,35 @@
+h1{
+    color:#ff0000
+}
+
+body{
+    background-color: #AAAAFF;
+}
+
+
+
+.king{
+    background-color: #AAAAFF;
+    display: flex;
+    justify-content: space-between;
+}
+.farmers{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    
+}
+h2{
+   text-align: center;
+   color:#ff0;
+   font-size: xx-large;
+}
+p{
+    text-align: center;
+    color:firebrick;
+    font-size: xx-large;
+ }
